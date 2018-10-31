@@ -2,6 +2,8 @@
 
 A component based on https://aramvisser.github.io/bulma-steps/.  The component uses the new ContextAPI and requires a version of react compatible with it.
 
+## [DEMO](https://tml123.github.io/react-bulma-steps/)
+
 ## To use:
 
 A distribution is not available, but feel free to grab the src, contribute, suggest, etc.
