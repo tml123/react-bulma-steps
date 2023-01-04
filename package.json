@@ -18,7 +18,7 @@
   "author": "tml123",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.1.2",
+    "@babel/core": "^7.20.12",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/plugin-proposal-export-namespace-from": "^7.0.0",
     "@babel/plugin-proposal-throw-expressions": "^7.0.0",
@@ -30,7 +30,7 @@
     "copy-webpack-plugin": "^4.5.4",
     "css-loader": "^1.0.1",
     "gh-pages": "^2.0.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^0.4.4",
     "node-sass": "^4.9.4",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
